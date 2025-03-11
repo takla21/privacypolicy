@@ -1,4 +1,4 @@
-# Privacy Policy for Montreal Parking Finder
+# Privacy Policy for MTL Parking
 
 **Effective Date:** March 11, 2025  
 
