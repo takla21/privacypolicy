@@ -1,14 +1,14 @@
-# Privacy Policy for Montreal Parking Finder
+# Privacy Policy for MTL Parking
 
 **Effective Date:** May 5, 2025
 
-Thank you for using **Montreal Parking Finder**. This Privacy Policy explains how I, as an independent developer, collect, use, and protect your information when you use the app.
+Thank you for using **MTL Parking**. This Privacy Policy explains how I, as an independent developer, collect, use, and protect your information when you use the app.
 
 ---
 
 ## 1. Information Collection and Use
 
-**Montreal Parking Finder** does **not collect or store any personal information** such as names, email addresses, or phone numbers.
+**MTL Parking** does **not collect or store any personal information** such as names, email addresses, or phone numbers.
 
 However, the app uses third-party services and may process limited data necessary for functionality, performance, or advertising.
 
