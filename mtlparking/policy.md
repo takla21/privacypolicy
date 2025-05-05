@@ -87,4 +87,11 @@ If you have any questions or concerns about this Privacy Policy, you can contact
 
 ---
 
+## 10. Disclaimer
+
+**MTL Parking** is an independent app developed by a third-party developer.  
+It is **not affiliated with, endorsed by, or officially connected to the City of Montreal** or any of its departments.
+
+---
+
 This Privacy Policy was last updated on **May 5, 2025**.
