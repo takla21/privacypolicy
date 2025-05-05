@@ -1,54 +1,90 @@
-# Privacy Policy for MTL Parking
+# Privacy Policy for Montreal Parking Finder
 
-**Effective Date:** March 11, 2025  
+**Effective Date:** May 5, 2025
 
-Thank you for using **MTL Parking**. This Privacy Policy explains how I, as an independent developer, collect, use, and protect your information when you use the app.
-
----
-
-## 1. Information Collection and Use  
-**MTL Parking** does **not collect or store any personal information** from its users. However, the app may use third-party services that collect information used to improve the service.
+Thank you for using **Montreal Parking Finder**. This Privacy Policy explains how I, as an independent developer, collect, use, and protect your information when you use the app.
 
 ---
 
-## 2. Location Data  
-The app uses real-time location tracking to help you find parking near your current location. Your location data is used only within the app and is **not stored or shared** with any third party.
+## 1. Information Collection and Use
+
+**Montreal Parking Finder** does **not collect or store any personal information** such as names, email addresses, or phone numbers.
+
+However, the app uses third-party services and may process limited data necessary for functionality, performance, or advertising.
 
 ---
 
-## 3. Third-Party Services  
-The app relies on several third-party libraries and services to function effectively. These services may collect data according to their own privacy policies:  
+## 2. Location Data
 
-- **Geolocator** – For location tracking.  
-- **Flutter Map, LatLong2** – For displaying map data.  
-- **Dio, Retrofit** – For handling network requests.  
-- **Cached Network Image** – For caching images.  
-- **Sensors Plus** – For reading device sensors.  
-- **Shared Preferences** – For saving app settings locally on your device.  
+The app uses real-time location tracking to help you find parking near your current location. Your **actual location is not stored or transmitted** to any server.
 
-I encourage you to review the privacy policies of these third-party providers.
+In some cases (such as feedback), the **map coordinates currently visible on the screen** may be included to help improve the app. This is not the same as the user’s physical location and is used only for development purposes.
 
 ---
 
-## 4. Data Retention  
-The app does not store or retain any personal data. Location data is processed in real-time and discarded once the app is closed.
+## 3. Feedback
+
+If you submit feedback through the app, it may include:
+- Settings you configured in the app
+- Coordinates of the area currently visible on the map
+
+This information is sent securely to my private Trello backlog and is used solely to fix bugs or improve the app. No identifying personal information is required or collected during this process.
 
 ---
 
-## 5. Security  
-I take reasonable steps to protect your information from unauthorized access or disclosure. However, no method of transmission over the internet or method of electronic storage is 100% secure.
+## 4. Advertising
+
+This app uses **Google Mobile Ads** to display in-app advertisements. These ads may be **personalized** based on your device data, such as installed apps or usage patterns, as per Google’s advertising practices.
+
+Users can choose to remove ads through the app’s interface if they prefer not to see them.
+
+You can learn more about how Google uses data for advertising here:  
+[https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
 
 ---
 
-## 6. Changes to This Privacy Policy  
-I may update this Privacy Policy from time to time. Any changes will be reflected within the app. Your continued use of the app after any updates indicates your acceptance of the revised policy.
+## 5. Third-Party Services
+
+The app uses the following third-party packages and tools that may handle certain types of data:
+
+- **Geolocator** – For real-time location (not stored)
+- **Flutter Map & LatLong2** – For displaying and navigating maps
+- **Dio, Retrofit** – For secure API communication
+- **Cached Network Image** – For image caching
+- **Sensors Plus** – For device orientation and sensors
+- **Shared Preferences** – For storing settings locally on your device
+- **Feedback** – For sending app-related info and context
+- **Google Mobile Ads** – For ad delivery
+- **Share Plus** – For sharing content via external apps
+
+Each of these services follows its own privacy practices, and I encourage you to review their privacy policies if you have any concerns.
 
 ---
 
-## 7. Contact Me  
-If you have any questions or concerns about this Privacy Policy, you can contact me at:  
+## 6. Data Retention
+
+No personal data is stored by the app. Any data (such as app settings or visible map coordinates) included in feedback is kept solely for app improvement and not shared externally.
+
+---
+
+## 7. Security
+
+I take reasonable steps to protect your information and ensure any feedback you send is handled securely. However, no method of transmission over the internet is 100% secure.
+
+---
+
+## 8. Changes to This Privacy Policy
+
+I may update this Privacy Policy from time to time. Changes will be reflected here, and you’re encouraged to review this policy periodically for updates.
+
+---
+
+## 9. Contact Me
+
+If you have any questions or concerns about this Privacy Policy, you can contact me at:
+
 📧 **kevin_takla@hotmail.com**
 
 ---
 
-This Privacy Policy was last updated on **March 11, 2025**.
+This Privacy Policy was last updated on **May 5, 2025**.
